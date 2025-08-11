@@ -1,3 +1,5 @@
+[![docs](https://pkg.go.dev/badge/github.com/nkamenev/multimap.svg)](https://pkg.go.dev/github.com/nkamenev/multimap)
+
 # Multimap
 
 A Go package implementing a generic multimap data structure, allowing multiple values per key with support for immutable, mutable, and sequential access.
